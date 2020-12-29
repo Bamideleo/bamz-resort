@@ -40,7 +40,7 @@ static contextType = RoomContext
             breakfast,
             pets,
             images}=room;
-            const [ImageMain, ...DefaultImg]=images;
+            const [ ...DefaultImg]=images;
             // console.log(DefaultImg);
         return (
             <>
