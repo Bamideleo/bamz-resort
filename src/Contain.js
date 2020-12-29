@@ -107,8 +107,6 @@ let {type,
     capacity,
     pets,
     price,
-    minPrice,
-    maxPrice,
     minSize,
     maxSize,
     breakfast, rooms} = this.state
